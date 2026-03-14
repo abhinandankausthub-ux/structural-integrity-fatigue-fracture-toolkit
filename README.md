@@ -33,7 +33,11 @@ This tool implements classical durability and damage tolerance models used in ae
 ## Running the Application
 
 Install dependencies:
+
 pip install -r requirements.txt
+
+Run app:
+
 streamlit run app.py
 
 
